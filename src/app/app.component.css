@@ -1,0 +1,30 @@
+h1{
+    font-size: 20px;
+}
+body{
+    border: 1px solid black;
+    width: 400px;
+    background-color: aliceblue;
+}
+.a{
+    display: flex;
+    flex-direction: row;
+}
+.b{
+    display: flex;
+    flex-direction: row;
+}
+.c{
+    display: flex;
+    flex-direction: row;
+}
+h2{
+    background-color:grey;
+    width: 108px;
+    }
+p{
+    background-color: aqua;
+    font-size: 14px;
+    width: 78px;
+    border: 1px solid black;
+}

@@ -6,5 +6,22 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'clase-04';
+  alumnos= [
+    {
+      nombre:'Juan',
+      carrera:'Economia',
+      legajo:101
+    },
+    {
+      nombre:'Anabella',
+      carrera:'Economia',
+      legajo:102
+    },
+    {
+      nombre:'Eugenio',
+      carrera:'Economia',
+      legajo:103
+    },
+
+  ]
 }
